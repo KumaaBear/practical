@@ -12,3 +12,13 @@ Hello! First you need to have a clone of my project.
 8. I will leave the copy of the database inside the database folder.
 9. To run the program type "php artisan serve" then click the link.
 10. In xampp the database name will be "practical_exam".
+
+
+My .env file
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=practical_exam
+DB_USERNAME=root
+DB_PASSWORD=
