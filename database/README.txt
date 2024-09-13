@@ -11,3 +11,4 @@ Hello! First you need to have a clone of my project.
 7. To run the program type "php artisan serve" then click the link.
 8. I will leave the copy of the database inside the database folder.
 9. To run the program type "php artisan serve" then click the link.
+10. In xampp the database name will be "practical_exam".
