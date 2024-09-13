@@ -1,5 +1,8 @@
 Hello! First you need to have a clone of my project.
 
+IDE: VisualStudio
+Sql: Xampp
+
 1. Click the "main" and choose "master" then click clone and copy the HTTPS link.
 2. Open your Visual Studio Code (You need to click the New Window).
 3. Go to Source Control (side left of your screen).
@@ -12,9 +15,8 @@ Hello! First you need to have a clone of my project.
 8. I will leave the copy of the database inside the database folder.
 9. To run the program type "php artisan serve" then click the link.
 10. In xampp the database name will be "practical_exam".
+11. You will just import the database file at PhpMyAdmin.
 
-Link for HTTPS : https://github.com/KumaaBear/practical.git
-(master branch)
 
 My .env file
 
