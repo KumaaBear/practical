@@ -13,6 +13,8 @@ Hello! First you need to have a clone of my project.
 9. To run the program type "php artisan serve" then click the link.
 10. In xampp the database name will be "practical_exam".
 
+Link for HTTPS : https://github.com/KumaaBear/practical.git
+(master branch)
 
 My .env file
 
