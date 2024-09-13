@@ -18,7 +18,7 @@ Sql: Xampp
 11. You will just import the database file at PhpMyAdmin.
 
 
-Link to download the database: https://github.com/KumaaBear/practical.git 
+Link to download the database: (https://drive.google.com/drive/folders/1PaH3iZocoLbgbxuIxkpmbLE4WeJnUcC5?usp=sharing)
 
 My .env file
 
